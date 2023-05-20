@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv=""X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Document </title>
+    </head>
+
+    <body>
+        <header>
+            <h1 style = "text-align:center"> CheetSheet </h1>
+            <h2 style = "text-align:center"> Most used terms </h2>
+        </header>
+
+        <main>
+            <p1> git commit: Se emplea para añadir un comentario a la edición que se le ha hecho a un archivo, facilitando su comprensión a los demás miembros del equipo. </p1> <br>
+            <p1> git clone: Permite copiar un repositorio de GitHub a una computadora (como documentos locales). </p1> <br>
+            <p1> git push: Sube a la nube los cambios realizados localmente. </p1> <br>
+            <p1> git pull: Baja de la nube los cambios realizados por otro usuario/desde otro computador, para tenerlos de manera local. </p1> <br>
+            <p1> git init: Es el principal, permite inicializar un repositorio local. </p1> <br>
+            <p1> git add: Permite añadir archivos locales a la nube. </p1> <br>
+            <p1> git status: Muestra el estado del repositorio, permitiendo evidenciar los documentos que están sincronizados con la nube, y los que no. </p1> <br>
+        </main>
+
+        <footer>
+            <hr>
+            <p style="text-align:center"> Realizado por: Maria Paula Sánchez Cortés </p>
+        </footer>
+    </body>
+</html>
