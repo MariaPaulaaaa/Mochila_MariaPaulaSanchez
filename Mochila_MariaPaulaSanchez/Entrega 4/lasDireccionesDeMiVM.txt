@@ -1,0 +1,11 @@
+Mis IP's:
+
+ - 192.168.31.1
+ - 190.24.16.147
+ - 10.0.2.15
+
+Mi direccion MAC: 08:00:27:17:61:44
+
+Las direcciones IP de la maquina virtual no son las mismas de mi computador 
+real. Sin embargo, la direccion publica si coincide, ya que ambas maquinas
+estan en la misma red.
